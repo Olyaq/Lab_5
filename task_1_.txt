@@ -21,3 +21,7 @@ plt.grid() # включает сетку
 
 # Показать график
 plt.show()
+
+
+
+https://colab.research.google.com/drive/1MpYLF3eY4AQrx-86ytOlnwNZtvzs8__K?usp=sharing
